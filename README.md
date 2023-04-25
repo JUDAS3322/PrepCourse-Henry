@@ -1,2 +1,1 @@
-# PrepCourse-Henry
-First
+Ese es un proyecto prueba de crear y clonar un repositorio desde GitHUb
